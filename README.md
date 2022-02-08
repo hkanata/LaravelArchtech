@@ -1,3 +1,3 @@
 # LaravelArchtech
 
-Arquitetura inicial Laravel com Jquery e AngularJs
+Arquitetura inicial Laravel 8 com Jquery e AngularJs
